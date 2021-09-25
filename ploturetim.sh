@@ -18,7 +18,8 @@ mkdir temp2
 chmod +777 temp2
 mkdir plots
 sudo chmod +777 plots
-wget https://github.com/bybrkaydn/servertestchiadriver/raw/main/googledriver.z>unzip googledriver.zip
-rm googledriver.zip
+wget https://github.com/bybrkaydn/servertestchiadriver/raw/main/googledriver.zip
 unzip googledriver.zip
+rm googledriver.zip
 echo "Kurulum tamamlandı."
+
