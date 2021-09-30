@@ -2,6 +2,7 @@
 apt update
 apt install
 apt install unzip
+apt install screen
 apt install nodejs -y
 apt install npm -y
 curl -sL https://deb.nodesource.com/setup_13.x | sudo -E bash -
